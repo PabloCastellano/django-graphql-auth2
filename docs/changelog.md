@@ -2,6 +2,10 @@
 
 ## v0.3
 
+### v0.3.17
+
+- Updated requirements
+
 ### v0.3.16
 
 - Nothing new, adding `PyJWT<=2.0.0` to requirements
